@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Jspiders</title>
+<link href=" "rel=" "/>
+</head>
+<body background="lime">
+<img src="7.png" height="200px" width="300px">
+<table border="3px" bgcolor="purple" align="center" cellpadding="10px" rules="all">
+<tr>
+	<th rowspan="3"> TRAINNER </th>
+	<th> Name </th>
+	<th> Technology </th>
+	<th> gender</th>
+</tr>
+<tr>
+	<td>gouda</td>
+	<td>java</td>
+	<td>male</td>
+</tr>
+<tr>
+	<td>Emnshu</td>
+	<td>sql</td>
+	<td>male</td>
+</tr>
+<tr>
+	<th rowspan=3>Student </th>
+	<th> Name </th>
+	<th> Technology </th>
+	<th> gender</th>
+</tr>
+<tr>
+	<td>nick</td>
+	<td>M43</td>
+	<td>IBM</td>
+</tr>
+<tr>
+	<td>jnon</td>
+	<td>M48</td>
+	<td>Infosys</td>
+</tr>
+</table>
+</body>
+	
+	
